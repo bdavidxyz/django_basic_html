@@ -68,6 +68,7 @@ Below, "core" means the core of our app, "." means build skeleton inside the cur
 
 ```shell
 django-admin startproject core .
+git add . && git commit -m "django first files"
 ```
 
 ## Change settings.py
