@@ -93,6 +93,14 @@ DATABASES = {
     }
 }
 ```
+
+You can check changes with 
+
+```shell
+git status
+git diff
+```
+
 Then commit changes
 
 ```shell
