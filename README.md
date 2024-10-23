@@ -104,7 +104,7 @@ git diff
 Then commit changes
 
 ```shell
-git add . && git commit -m "added 2 HTML files"
+git add . && git commit -m "updated settings for db and allowed hosts"
 ```
 
 ## Initial migrations
@@ -165,7 +165,7 @@ You can check & commit changes with
 ```shell
 git status
 git diff
-git add . && git commit -m "updated settings for db and allowed hosts"
+git add . && git commit -m "added 2 HTML files"
 ```
 
 (Note that "git diff" don't display anything for new files. But VSCode can help).
