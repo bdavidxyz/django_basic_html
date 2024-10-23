@@ -160,6 +160,16 @@ Create templates/about.html
 </html>
 ```
 
+You can check & commit changes with 
+
+```shell
+git status
+git diff
+git add . && git commit -m "updated settings for db and allowed hosts"
+```
+
+(Note that "git diff" don't display anything for new files. But VSCode can help).
+
 ## Make the app aware of the templates folder
 
 Inside core/settings.py, update the 'DIRS' prop like this :
