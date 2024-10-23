@@ -1,4 +1,4 @@
-# Django skeleton with basic HTML page
+# Django skeleton with 2 basic HTML pages
 
 Django project with Postgre, 2 html pages, and link between them.
 
