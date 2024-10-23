@@ -104,7 +104,7 @@ git diff
 Then commit changes
 
 ```shell
-git add . && git commit -m "updated settings for db and allowed hosts"
+git add . && git commit -m "added 2 HTML files"
 ```
 
 ## Initial migrations
