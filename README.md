@@ -93,6 +93,11 @@ DATABASES = {
     }
 }
 ```
+Then commit changes
+
+```shell
+git add . && git commit -m "updated settings for db and allowed hosts"
+```
 
 ## Initial migrations
 
